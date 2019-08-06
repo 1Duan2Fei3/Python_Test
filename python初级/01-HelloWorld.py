@@ -22,3 +22,5 @@ a=10
 b=5
 c=a//b
 print("7-c的值为:",c)
+account='DuanFei'
+passwd=050121
